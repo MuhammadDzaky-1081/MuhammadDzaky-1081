@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hazachry
+- 👋 Hi, I’m Hazachrym
 - 👀 I’m interested in Data Management and Data Generative, But keep progres newst technologies across multiple platforms applicants.
 - 🌱 I’m currently learning Python, R, JavaScript, SQL, HTML, CSS, Docker, Flask, Tableau, Power BI, Looker Studio.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/muhammad-dzaky-haza/)
